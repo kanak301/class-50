@@ -1,0 +1,4 @@
+h1{color:red; border:solid;}
+p{color:aqua; border: top 20px aquamarine;}
+*{font-style: italic;}
+.parent{background-color: aqua; display:flex; flex-direction: row; justify-content: space-between;}
